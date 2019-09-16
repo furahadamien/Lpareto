@@ -5,14 +5,14 @@ A nodejs framework for bringing [hlc-server](https://www.npmjs.com/package/hlc-s
 
 Installation
 ------------
-1. install Lpareto on you device    
-    `git clone https://github.com/furahadamien/Lpareto.git`
-    then run 
-    `npm install` to install dependencies
-2. install hlc-server on your machine. You can do this by cloning the repository on git github or installi the npm package.
-    option 1.
-    `git clone https://github.com/reelyactive/hlc-server.git`
-    then run npm to install dependencies
+1. install Lpareto on you device  <br>
+    ``git clone https://github.com/furahadamien/Lpareto.git`` <br>
+    then run  <br>
+    `npm install` to install dependencies <br>
+2. install hlc-server on your machine. You can do this by cloning the repository  <br>on git github or installi the npm package. <br>
+    option 1. <br>
+    `git clone https://github.com/reelyactive/hlc-server.git` <br>
+    then run npm to install dependencies <br>
     `upm install`
 
 
